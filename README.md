@@ -1,6 +1,6 @@
 # RAVEN
 
-This repository contains pretrained models and code for pretraining and evaluation for RAVEN.
+This repository contains code for pretraining and evaluation for RAVEN (https://arxiv.org/abs/2308.07922).
 
 
 
