@@ -73,6 +73,12 @@ sbatch example_scripts/train-raven-xxl.sh
 
 
 
+## Checkpoints
+
+[Google Drive](https://drive.google.com/drive/u/1/folders/16gmz-ncb5PuRW5ufxU7r1iRaek7DBsO8)
+
+
+
 ## In-Context Learning with RAVEN
 
 **NQ**
